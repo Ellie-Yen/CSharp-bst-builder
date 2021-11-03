@@ -1,6 +1,4 @@
----
-
-### BST builder, serializer and deserializer (C#)
+# BST builder, serializer and deserializer
 
 ![demo of BST builder operation](demo/demo_BST_ani.gif)
 
@@ -24,7 +22,7 @@ another example of build by an invalid string (with duplicates and false order)
 >> Console.WriteLine(ex2); 
 [9 | 5, 78 | 4, 6, 42, 99 | 1, null, null, null, null, null, null, null]
 ```
-![demo of BST builder](demo/demo_BST_1.png)
+![demo of BST builder](demo/demo_bst_1.png)
 
 ```
 >> ex2.Delete(11); // this would do nothing since 11 is not in root
