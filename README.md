@@ -1,4 +1,4 @@
-# BST builder, serializer and deserializer
+# BST builder, serializer and deserializer 
 
 ![demo of BST builder operation](demo/demo_BST_ani.gif)
 
